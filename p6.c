@@ -60,3 +60,14 @@ main()
 	printf("\t%d",a[i]);
       printf("\nThe run time is %f\n",clk);
 }
+/*
+Enter the number of students records: 5
+
+The roll numbers are:
+62	34	50	28	16
+
+Sorted roll numbers are:
+16	28	34	50	62
+
+The time taken to sort is 0.93454336
+*/
